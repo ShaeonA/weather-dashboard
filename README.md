@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+<<<<<<< HEAD
+# weather-dashboard 
+This project required me to use two different server side API'S, as well as use CSS and Javascript in order to build a functionning weather app,
+some features of the weather dashboard are included but not limited to getting your current and next five day(s) forecast. 
+If I had more time I'd like to work on my coding logic for displaying the user's recent search's and also getting their data to save to local storage. 
 
-You can use the [editor on GitHub](https://github.com/ShaeonA/weather-dashboard/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Link to deployed app:https://shaeona.github.io/weather-dashboard/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShaeonA/weather-dashboard/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Screenshot of Deployed APP:
